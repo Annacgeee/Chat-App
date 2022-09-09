@@ -1,0 +1,30 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annacgeee/Chat-App.git"
+  },
+  "author": "Anna Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annacgeee/Chat-App/issues"
+  },
+  "homepage": "https://github.com/Annacgeee/Chat-App#readme",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.19",
+    "pg": "^8.8.0",
+    "save": "^2.5.0",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
